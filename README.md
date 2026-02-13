@@ -1,6 +1,11 @@
 [![MasterHead](https://miro.medium.com/1*OF0xEMkWBv-69zvmNs6RDQ.gif)](https://rishavchanda.io)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm HarshVardhan</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=Hi%20👋,%20I'm%20HarshVardhan&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Builder+⚡;Always+Learning+New+Tech+🚀" />
+
+</div>
 <h3 align="center">Learning DSA | Full-Stack Developer | Exploring AI</h3>
 <img
   src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif",
@@ -9,7 +14,9 @@
   align="right"
 />
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshvrdn&color=blue" alt="Profile Views" />
+</p>
 
 
 - 🔭 I’m currently working on **Grinding DSA & Building Full-Stack + AI Apps**
@@ -58,6 +65,4 @@
 <a href="https://leetcode.com/u/rajputharsh321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajputharsh321" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshvrdn&color=blue" alt="Profile Views" />
-</p>
+
