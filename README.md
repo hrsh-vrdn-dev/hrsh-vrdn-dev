@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm HarshVardhan</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Builder+⚡;Always+Learning+New+Tech+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+ENTHUSIASTIC+⚡;Always+Learning+New+Tech+🚀" />
 
 </div>
 <h3 align="center">Learning DSA | Full-Stack Developer | Exploring AI</h3>
