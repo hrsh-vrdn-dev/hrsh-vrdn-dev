@@ -20,13 +20,9 @@
 
 
 - 🔭 I’m currently working on **Grinding DSA & Building Full-Stack + AI Apps**
-
 - 🌱 I’m currently learning **AI Full stack developer and grind DSA**
-
 - 👯 I’m looking to collaborate on **Different Bussiness**
-
 - 🤝 I’m looking for help with **Any web dev work.**
-
 - 📫 How to reach me **hrajeshu@gmail.com**
 
 ### 🛠 Tech Stack
