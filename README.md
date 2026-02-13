@@ -1,18 +1,18 @@
-[![MasterHead]([![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io))](https://harshvrdn.io)
 <h1 align="center">Hi 👋, I'm HarshVardhan</h1>
 <h3 align="center">Learning DSA | Full-Stack Developer | Exploring AI</h3>
+<img src="https://raw.githubusercontent.com/9720008856/HarshVardhan/main/assets/images.gif" width="300" align="right" />
 
+<p align="left"> <a href="https://twitter.com/https://x.com/h_vrdn" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/h_vrdn?logo=twitter&style=for-the-badge" alt="https://x.com/h_vrdn" /></a> </p>
 
+- 🔭 I’m currently working on **Grinding DSA & Building Full-Stack + AI Apps**
 
+- 🌱 I’m currently learning **AI Full stack developer and grind DSA**
 
-### 🚀 About Me
-•⁠  ⁠🔭 Currently working on  Building Full-Stack + AI Apps**
-•⁠  ⁠🌱 Exploring *AI Full Stack Development* & mastering System Design
-•⁠  ⁠👯 Looking to collaborate on *Innovative Business Ideas*
-•⁠  ⁠🤝 Open for *Web Development* projects & open-source contributions
-•⁠  ⁠📫 Reach me at: *hrajeshu@gmail.com*
+- 👯 I’m looking to collaborate on **Different Bussiness**
 
----
+- 🤝 I’m looking for help with **Any web dev work.**
+
+- 📫 How to reach me **hrajeshu@gmail.com**
 
 ### 🛠 Tech Stack
 
