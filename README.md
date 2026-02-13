@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/1*OF0xEMkWBv-69zvmNs6RDQ.gif)](https://rishavchanda.io)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=Hi%20👋,%20I'm%20HarshVardhan&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+<h1 align="center">Hi 👋, I'm HarshVardhan</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Builder+⚡;Always+Learning+New+Tech+🚀" />
 
