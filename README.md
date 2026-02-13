@@ -1,8 +1,16 @@
+[![MasterHead](https://miro.medium.com/1*OF0xEMkWBv-69zvmNs6RDQ.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm HarshVardhan</h1>
 <h3 align="center">Learning DSA | Full-Stack Developer | Exploring AI</h3>
-<img src="https://raw.githubusercontent.com/9720008856/HarshVardhan/main/assets/images.gif" width="300" align="right" />
+<img
+  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif",
+  alt="Coding"
+  width="450"
+  align="right"
+/>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/h_vrdn" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/h_vrdn?logo=twitter&style=for-the-badge" alt="https://x.com/h_vrdn" /></a> </p>
+
+
 
 - 🔭 I’m currently working on **Grinding DSA & Building Full-Stack + AI Apps**
 
@@ -26,16 +34,19 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshvrdn&show_icons=true&theme=radical" alt="Harsh's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshvrdn&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
-</p>
+<img 
+  src="https://streak-stats.demolab.com/?user=9720008856&theme=dark&hide_border=true"
+/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshvrdn&theme=radical" alt="GitHub Streak" />
+## 🧠 LeetCode Stats
+
+<p align="left">
+  <img 
+    src="https://leetcard.jacoblin.cool/rajputharsh321?theme=dark&font=Fira%20Code"
+    alt="LeetCode Stats"
+  />
 </p>
 
 ---
