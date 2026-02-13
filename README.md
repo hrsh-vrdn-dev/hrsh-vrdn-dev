@@ -14,7 +14,7 @@
   align="right"
 />
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=harshvrdn&color=blue" alt="Profile Views" />
 </p>
 
