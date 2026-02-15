@@ -40,7 +40,7 @@
 ## 🔥 GitHub Streak
 
 <img 
-  src="https://streak-stats.demolab.com/?user=9720008856&theme=dark&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=hrsh-vrdn-dev&theme=dark&hide_border=true"
 />
 
 ## 🧠 LeetCode Stats
